@@ -1,5 +1,3 @@
-# Version 1
-
 # Tech Library Project Documentation
 
 ## 1. Project Overview
